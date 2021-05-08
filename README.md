@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoborlone/)](https://www.linkedin.com/in/fernandoborlone/)
 
 ### Sobre
-- Engenheiro de Tecnologia | QA na [@Dasa](https://dasa.com.br/).
-- Graduado em Análise e Desenvolvimento de Sistemas.
-- Trabalha como QA à 3 anos e sua maior motivação é agregar novas tecnologias para Qualidade de Software e disseminar o conhecimento...
+- Engenheiro de Tecnologia | QA na [@Dasa](https://dasa.com.br/),
+- Graduado em Análise e Desenvolvimento de Sistemas,
+- Comprometido com qualidade de software, dedicado a boas práticas de teste e sua maior motivação e disseminar o conhecimento.
 
 
 
