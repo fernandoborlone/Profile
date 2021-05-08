@@ -8,7 +8,11 @@
 - Graduado em Análise e Desenvolvimento de Sistemas.
 - Trabalha como QA à 3 anos e sua maior motivação é agregar novas tecnologias para Qualidade de Software e disseminar o conhecimento...
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fernandoborlone)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=fernandoborlone&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoborlone&layout=compact&theme=tokyonight)](https://github.com/fernandoborlone/github-readme-stats)
+
 
 ### 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 ![Cypress Badge](https://img.shields.io/badge/Cypress.io-17202C?style=flat-square&logo=cypress&logoColor=white)
