@@ -6,7 +6,7 @@
 ### Sobre
 - Engenheiro de Tecnologia | QA na [@Dasa](https://dasa.com.br/),
 - Graduado em Análise e Desenvolvimento de Sistemas,
-- Comprometido com qualidade de software, dedicado as boas práticas de teste e sua maior motivação e disseminar o conhecimento.
+- Comprometido com qualidade de software, dedicado as boas práticas de teste e minha maior motivação e disseminar o conhecimento.
 
 
 
