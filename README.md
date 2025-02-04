@@ -1,14 +1,16 @@
-# Olá, Sou Fernando Borlone! 👋
+# Hi there, I'm Fernando Borlone! 👋
+**Senior QA Engineer | Test Automation Specialist**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/fernandoborlone)  
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fernandoborlone/)](https://github.com/fernandoborlone/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoborlone/)](https://www.linkedin.com/in/fernandoborlone/)
+## About Me
+I'm a Senior QA Engineer with over 8 years of experience in test automation, agile methodologies, and quality assurance. Passionate about building robust test frameworks, mentoring teams, and driving continuous improvement in software quality.
 
-### Sobre
-- Engenheiro de Tecnologia | QA na [verifymy](https://verifymy.io/),
-- Graduado em Análise e Desenvolvimento de Sistemas,
-- Comprometido com qualidade de software, dedicado as boas práticas de teste e minha maior motivação e disseminar o conhecimento.
-
-
+## Skills
+- **Test Automation:** Cypress, Playwright, Protractor, Webdriver.IO, Appium  
+- **Programming:** JavaScript, TypeScript, Ruby, SQL  
+- **CI/CD:** Jenkins, Docker, Azure DevOps  
+- **Performance Testing:** K6, JMeter  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fernandoborlone&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoborlone&layout=compact&theme=tokyonight)](https://github.com/fernandoborlone/github-readme-stats)
