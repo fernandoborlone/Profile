@@ -7,8 +7,8 @@
 I'm a Senior QA Engineer with over 8 years of experience in test automation, agile methodologies, and quality assurance. Passionate about building robust test frameworks, mentoring teams, and driving continuous improvement in software quality.
 
 ## Skills
-- **Test Automation:** Cypress, Playwright, Protractor, Webdriver.IO, Appium  
-- **Programming:** JavaScript, TypeScript, Ruby, SQL  
+- **Test Automation:** Cypress, Playwright, Protractor, Frisby.js, Supertest, Webdriver.IO, Appium  
+- **Programming:** JavaScript, TypeScript, Ruby, SQL, MQL 
 - **CI/CD:** Jenkins, Docker, Azure DevOps  
 - **Performance Testing:** K6, JMeter  
 
